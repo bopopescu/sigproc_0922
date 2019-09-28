@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="images">
+    <file>FR_icons/quit.png</file>
+    <file>FR_icons/add.png</file>
+    <file>FR_icons/student.png</file>
+    <file>FR_icons/cancel.png</file>
+    <file>FR_icons/warning.png</file>
+    <file>FR_icons/browse.png</file>
+    <file>FR_icons/cancel.png</file>
+    <file>FR_icons/Check.png</file>
+    <file>FR_icons/error.png</file>
+    <file>FR_icons/icon.png</file>
+    <file>FR_icons/refresh.png</file>
+    <file>FR_icons/warning.png</file>
+    <file>FR_icons/capture.png</file>
+  </qresource>
+</RCC>
